@@ -49,6 +49,7 @@
 
 ### Задание 4
 
-https://github.com/PeterFumelli/7-1-ansible-hw/blob/cec7bccadfbb5d7b8e891957a449d912be238825/img/%20Ad-hoc1.png
+<https://github.com/PeterFumelli/7-1-ansible-hw/blob/main/img/%20Ad-hoc1.png>
 
+<https://github.com/PeterFumelli/7-1-ansible-hw/blob/main/img/%20Ad-hoc1.png>
 
