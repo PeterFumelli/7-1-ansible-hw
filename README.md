@@ -53,6 +53,4 @@
 
 <https://github.com/PeterFumelli/7-1-ansible-hw/blob/main/img/%20Ad-hoc2.png>
 
-### Задание 5
-
 <https://github.com/PeterFumelli/7-1-ansible-hw/blob/main/img/I_like_Linux.png>
