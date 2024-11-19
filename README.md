@@ -26,7 +26,8 @@
 
 ### Задание 2
 
-<https://github.com/PeterFumelli/7-1-ansible-hw/blob/main/img/inventory_ping.png>
+Скриншот-1 к заданию 1:
+![inventory_ping] (<https://github.com/PeterFumelli/7-1-ansible-hw/blob/main/img/inventory_ping.png>)
 
 ### Задание 8
 
