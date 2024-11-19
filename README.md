@@ -26,7 +26,6 @@
 
 ### Задание 2
 
-Скриншот-1 к заданию 1:
 <https://github.com/PeterFumelli/7-1-ansible-hw/blob/main/img/inventory_ping.png>
 
 ### Задание 3
@@ -50,5 +49,6 @@
 
 ### Задание 4
 
+https://github.com/PeterFumelli/7-1-ansible-hw/blob/cec7bccadfbb5d7b8e891957a449d912be238825/img/%20Ad-hoc1.png
 
 
